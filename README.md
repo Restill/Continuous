@@ -1,1 +1,4 @@
 # Continuous
+持续集成Continuous Integration
+持续交付Continuous Delivery
+持续部署Continuous Deployment
